@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "fwjelaa",
-      "source": "./",
+      "source": "./plugins/fwjelaa",
       "description": "Roblox game studio for Claude Code: notes, skills, agents, commands and a code-check hook."
     }
   ]
